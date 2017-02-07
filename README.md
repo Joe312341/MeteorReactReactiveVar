@@ -1,4 +1,4 @@
-Demonstrate how to use create container with reactiveVar in Meteor + React
+Demonstrates how to use createContainer with reactiveVar in Meteor + React
 
 #Usage
 
